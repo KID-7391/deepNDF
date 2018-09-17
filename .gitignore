@@ -1,0 +1,13 @@
+/cifar10/snapshot*/*
+/mnist/snapshot*/*
+/cifar10/*.caffemodel
+/mnist/*.caffemodel
+/cifar10/cifar10_test_lmdb/*
+/cifar10/cifar10_train_lmdb/*
+/mnist/mnist_test_lmdb/*
+/mnist/mnist_train_lmdb/*
+/deepndf/.build_debug/*
+/deepndf/.build_release/*
+/deepndf/.anjuta/*
+/deepndf/.anjuta_sym_db.db/*
+/deepndf/build/*
